@@ -1,0 +1,25 @@
+{
+    "name": "Mark Smith",
+    "age": 39,
+    "address": {
+        "street": "Pena View",
+        "city": "Barbaramouth",
+        "state": "New York",
+        "zip": "26296"
+    },
+    "contact": {
+        "phone": "(879)447-7080x68592",
+        "servicePhone": "800978461"
+    },
+    "birthday": "1986-02-07",
+    "ip": "81.197.102.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface beautiful attorney sure. High cultural ten throughout cell. Admit consider rich near. Claim campaign give society.",
+        "bio": "Team where bag perform information. Investment collection he project wife. Day me operation."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
