@@ -1,0 +1,25 @@
+{
+    "name": "Leah Griffin",
+    "age": 6,
+    "address": {
+        "street": "Hale Shoals",
+        "city": "Davidsonbury",
+        "state": "Illinois",
+        "zip": "80363"
+    },
+    "contact": {
+        "phone": "551.549.9973x891",
+        "servicePhone": "800703760"
+    },
+    "birthday": "2019-13-06",
+    "ip": "21.188.87.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone issue others explain. West present reason other school. News the cut ever address source.",
+        "bio": "Suggest mean side inside. Simply audience sea until talk arm figure.\nChoice agent institution baby. Laugh able threat collection word.\nAlready six fish. Close series first energy throughout."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
