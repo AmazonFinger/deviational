@@ -1,0 +1,25 @@
+{
+    "name": "Robin Mitchell",
+    "age": 79,
+    "address": {
+        "street": "Weeks Harbor",
+        "city": "Michaelshire",
+        "state": "New Jersey",
+        "zip": "35069"
+    },
+    "contact": {
+        "phone": "001-585-995-6751x755",
+        "servicePhone": "800677859"
+    },
+    "birthday": "1946-06-05",
+    "ip": "72.164.207.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply no able true. Would finish be kitchen. Various industry black now exist. Agent people interesting soldier.",
+        "bio": "Behavior visit stuff claim likely on nor. Local recognize travel story environment thing.\nLook use able left gas art. Against hit suggest music want central run record. Range base born."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
