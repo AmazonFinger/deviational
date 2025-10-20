@@ -1,0 +1,25 @@
+{
+    "name": "Kari Haynes",
+    "age": 63,
+    "address": {
+        "street": "Gray Cape",
+        "city": "Lake Amyburgh",
+        "state": "Texas",
+        "zip": "26768"
+    },
+    "contact": {
+        "phone": "8409628793",
+        "servicePhone": "800105699"
+    },
+    "birthday": "1962-01-06",
+    "ip": "60.24.213.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization game certain at. Yet moment thing doctor. Might blue foreign fact job administration get.\nMorning of marriage would team. Phone model employee increase fish course campaign.",
+        "bio": "Pretty building better into none option. Catch suffer or remain."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
