@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Morrow",
+    "age": 77,
+    "address": {
+        "street": "Bobby Burgs",
+        "city": "Marcusbury",
+        "state": "West Virginia",
+        "zip": "50880"
+    },
+    "contact": {
+        "phone": "001-330-410-0471x5282",
+        "servicePhone": "800998283"
+    },
+    "birthday": "1948-02-11",
+    "ip": "174.74.30.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually produce fast teach. Decade pick section risk defense level agency. Voice someone garden here.\nBudget piece true particularly site send.\nOver who reflect quickly. No image democratic answer.",
+        "bio": "Husband rise member prevent safe course. Race accept day yard huge.\nMr best guess former success. Letter sense too power feel. Approach who ability institution role character three."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
