@@ -1,0 +1,25 @@
+{
+    "name": "Danny Henry",
+    "age": 110,
+    "address": {
+        "street": "Joshua Gardens",
+        "city": "Lake Dana",
+        "state": "Missouri",
+        "zip": "40286"
+    },
+    "contact": {
+        "phone": "596.810.9619x18658",
+        "servicePhone": "800629828"
+    },
+    "birthday": "1915-23-02",
+    "ip": "109.244.162.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation quite perform leave south about professional everyone. Industry with movement leg father. Article eat production program their benefit eight.",
+        "bio": "She response identify garden. Decide student administration admit sure news seven. Space talk of now green certainly explain."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
