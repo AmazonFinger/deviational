@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Andrade",
+    "age": 53,
+    "address": {
+        "street": "Brandt Forge",
+        "city": "New Aarontown",
+        "state": "Missouri",
+        "zip": "69895"
+    },
+    "contact": {
+        "phone": "(710)919-0004",
+        "servicePhone": "800028366"
+    },
+    "birthday": "1972-04-07",
+    "ip": "207.253.108.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Development strong heart never two. Hotel government newspaper. Officer learn left tough fall huge serve.\nAnswer team large change prevent during bad. Really think force compare memory.",
+        "bio": "Believe early number board. Party reality suffer control.\nAlways discover politics new a level.\nWhat own best nearly eight car. Series site security a."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
