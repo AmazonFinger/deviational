@@ -1,0 +1,25 @@
+{
+    "name": "Steven Atkins",
+    "age": 30,
+    "address": {
+        "street": "Soto Circle",
+        "city": "New Joseph",
+        "state": "Texas",
+        "zip": "08894"
+    },
+    "contact": {
+        "phone": "684-876-1282",
+        "servicePhone": "800477360"
+    },
+    "birthday": "1995-07-02",
+    "ip": "148.84.213.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Think produce civil somebody true. Of billion phone another head.\nName claim fire open. Training many blue listen course general week. No rate beautiful well.",
+        "bio": "Business ok vote player seven bar. Type modern carry expert. Determine life tough discussion start. Return hundred cost six phone particularly."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
