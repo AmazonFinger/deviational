@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Berry",
+    "age": 82,
+    "address": {
+        "street": "Charles Cape",
+        "city": "Paulshire",
+        "state": "Pennsylvania",
+        "zip": "51005"
+    },
+    "contact": {
+        "phone": "+1-394-882-9153x938",
+        "servicePhone": "800778426"
+    },
+    "birthday": "1943-15-01",
+    "ip": "213.248.9.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Site particularly build front. Blue will recently. Within need which wind stop learn.\nBelieve still his office project professional specific. Air parent real south stay direction.",
+        "bio": "Our budget offer most ever add effort growth. Us father individual western certainly author try level.\nPlan majority song quality. Institution practice third Democrat effort pretty."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
