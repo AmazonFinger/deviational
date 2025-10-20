@@ -1,0 +1,25 @@
+{
+    "name": "Mario Sims",
+    "age": 64,
+    "address": {
+        "street": "Wells Pine",
+        "city": "South Elijahchester",
+        "state": "North Carolina",
+        "zip": "12428"
+    },
+    "contact": {
+        "phone": "+1-826-456-4516",
+        "servicePhone": "800498884"
+    },
+    "birthday": "1961-18-08",
+    "ip": "94.138.130.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring maybe teacher he ten best today. Method for across property into recognize. Little business somebody interesting experience where.",
+        "bio": "Defense third already three probably team. Oil camera road light huge artist have. Suffer play television this plant close identify.\nChoice lot physical important."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
