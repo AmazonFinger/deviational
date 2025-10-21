@@ -1,0 +1,25 @@
+{
+    "name": "Casey Howard",
+    "age": 85,
+    "address": {
+        "street": "Larry Center",
+        "city": "Danielhaven",
+        "state": "Washington",
+        "zip": "71845"
+    },
+    "contact": {
+        "phone": "355-635-2231x51634",
+        "servicePhone": "800624876"
+    },
+    "birthday": "1940-19-04",
+    "ip": "154.242.198.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything early get involve shake watch. Really according left word dog well where.\nPast party tonight with memory personal.",
+        "bio": "Only son star yard raise. Different window hospital enough agency. Again whose authority hospital worry store around.\nMyself skin build accept box current. Sell specific rise. Reach him where."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

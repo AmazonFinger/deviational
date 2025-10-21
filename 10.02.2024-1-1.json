@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Carter",
+    "age": 59,
+    "address": {
+        "street": "Lindsey Route",
+        "city": "Christinaside",
+        "state": "South Dakota",
+        "zip": "65799"
+    },
+    "contact": {
+        "phone": "(728)553-2456",
+        "servicePhone": "800992534"
+    },
+    "birthday": "1966-15-03",
+    "ip": "132.119.104.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest seat threat surface question central. Station threat between even task manager body assume. Seven trade memory product out surface. Pass his top yeah town.",
+        "bio": "Try sense car with until herself statement. Imagine outside card study. Eight suffer able pressure.\nStrong anything no media. While away charge home give wrong buy third."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
