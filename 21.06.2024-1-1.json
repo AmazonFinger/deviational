@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Rollins",
+    "age": 99,
+    "address": {
+        "street": "Tammy Spurs",
+        "city": "Lake Johnberg",
+        "state": "Mississippi",
+        "zip": "25942"
+    },
+    "contact": {
+        "phone": "643.247.2780",
+        "servicePhone": "800359504"
+    },
+    "birthday": "1926-02-12",
+    "ip": "184.229.90.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship so cover itself garden subject remember. Red section than suggest tough.\nRisk many possible in. Fly level effort international mission current war election.",
+        "bio": "More born lot since near more. Subject anything international bring my special. He various pull check."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
